@@ -1,8 +1,0 @@
-## Result:
-### So, First we login to the system with username and password that
-we already data has been fed into the database. Then it takes into another
-page where we select movie and then after we selecting movie another
-page comes then we select show timings. After selecting show timings it
-takes into another page there we select number of tickets we want. After
-selecting number of tickets it takes into another page there we print
-ticket with cost
